@@ -1,1 +1,1 @@
-# ANN-classification-Churn-Prediction
+# classification-Customer-Churn-Prediction
